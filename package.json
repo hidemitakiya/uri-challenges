@@ -1,0 +1,21 @@
+{
+  "name": "uri-challenges",
+  "version": "1.0.0",
+  "description": "Uri Online Judge - Challenges",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hidemitakiya/uri-challenges.git"
+  },
+  "author": "Livia Hidemi Takiya - LTA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hidemitakiya/uri-challenges/issues"
+  },
+  "homepage": "https://github.com/hidemitakiya/uri-challenges#readme",
+  "type": "module"
+}
